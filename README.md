@@ -10,7 +10,7 @@ We recommend to install Miniconda, particularly for Python 2.7 instead of Python
 
 # The Authors:
 
-Rens Van Beek, Jannis Hoch, and Safaa Naffaa.
+Safaa Naffaa, Jannis Hoch, and Rens van Beek.
 
  
 
